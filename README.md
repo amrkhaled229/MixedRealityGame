@@ -3,7 +3,6 @@
 > An immersive **mixed reality ghost‑hunting** game for **Meta Quest 3** built with **Unity**. Ghosts spawn behind the **scanned room mesh**, chase you with **NavMesh AI**, and can be zapped with a **laser gun** that fires physics‑accurate **raycasts**. Hits turn ghosts **red** before a smooth **death animation** plays and they **disappear**. Your **score** floats above the gun for instant feedback.
 
 ![Gameplay Screenshot](docs/screenshot.jpg)
-*Replace with a real screenshot or GIF.*
 
 ---
 
