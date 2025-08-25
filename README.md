@@ -27,7 +27,7 @@
 
 ## 📺 Demo
 
-* **YouTube:** [https://www.youtube.com/watch?v=Yrfx4ss8Wbw](https://www.youtube.com/shorts/fccMyw9vJjM)
+* **YouTube:** [https://www.youtube.com/shorts/fccMyw9vJjM](https://www.youtube.com/shorts/fccMyw9vJjM)
 
 ---
 
