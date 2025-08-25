@@ -50,6 +50,11 @@ public class GhostSpawner : MonoBehaviour
                 Vector3 randomPositionNormalOffset = pos + norm * normalOffset;
                 randomPositionNormalOffset.y = 0;
                 Instantiate(prefabToSpawn, randomPositionNormalOffset, Quaternion.identity);
+                return;
+            }
+            else
+            {
+                currentTry++;
             }
         }
 
